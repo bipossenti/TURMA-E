@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    	<meta charset="UTF-8">
+    <head>
+
+    	<title>Produtos 🛍 Aviário Zeca-Urubu</title>
+    	<link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="index.html">
+    </head>
+    <body>
+    	<header>
+    		<div class="caixa">
+                <h1><img src="imagem " width="220"></h1>
+
+	        <nav>
+	    	     <ul>
+	    	          <li><a href="index.html">Home</a></li>
+	                  <li><a href="produtos.html">Produtos</a></li>
+	                  <li><a href="contato.html">Contato</a></li>
+	    		  </ul>
+		      </nav>
+                </div>
+    	</header>
+	    
+    	<main>
+	  
+    		<ul class="produtos">
+	    		<li>
+	    			<h2>calopsitas </h2>
+	    			<img id="imagem calopsita " src="imagem calopsita ">
+	    			<p class="produto-descrição">Fêmeas e macho,raças favor consultar nossa lista de disponíveis 🐤♥️</p>
+	    			<p class="produto-preço"> R$150 a R$300 </p>
+	    		</li>
+	    		<li>
+	    			<h2>petiscos </h2>
+	    			<img id="banner2.jpeg" src="imag">
+	    			<p class="produto-descrição">petisco</p>
+	    			<p class="produto-preço"> R$</p>
+	    		</li>
+	    		
+    		</ul>
+		</nav>
+</header>
+
+    	<footer>
+    		<img id="logo-branco" src="logo-branco.png (1).png">
+    		<p class="copyright">&copy; Copyright Aviário Zeca-Urubu
+    	</footer>
+    </body>
+<html>
